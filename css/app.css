@@ -18,18 +18,22 @@ header h1 .logo {
 }
 
 section[role="main"] {
-  margin-top: 4rem;
+  background: url(/img/kamon.png) no-repeat;
+  background-size: contain;
+  background-position: center;
 }
 .table {
   display: table;
   width: 100%;
 }
 .table-cell {
-  height: 500px;
+  height: 667px;
   display: table-cell;
   vertical-align: middle;
 }
-
+.table .panel {
+  opacity: .9;
+}
 .elapsed-time {
   font-size: 2rem;
 }
