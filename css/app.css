@@ -18,7 +18,7 @@ header h1 .logo {
 }
 
 section[role="main"] {
-  background: url(/img/kamon.png) no-repeat;
+  background: url(/shiorin/img/kamon.png) no-repeat;
   background-size: contain;
   background-position: center;
 }
