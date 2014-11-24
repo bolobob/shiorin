@@ -27,8 +27,7 @@ section[role="main"] {
   width: 100%;
 }
 .table-cell {
-  height: 667px;
-  display: table-cell;
+   display: table-cell;
   vertical-align: middle;
 }
 .table .panel {
