@@ -31,10 +31,10 @@ section[role="main"] {
   vertical-align: middle;
 }
 .table .panel {
-  opacity: .9;
+  opacity: .8;
 }
 .elapsed-time {
-  font-size: 2rem;
+  font-size: 4rem;
 }
 
 footer {
