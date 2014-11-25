@@ -31,7 +31,7 @@ function getTimeUnit(date) {
   } else if (moment().diff(moment(date), 'hours')) {
     timeUnit = '時間';
   } else if (moment().diff(moment(date), 'minutes')) {
-    timeUnit = '秒';
+    timeUnit = '分';
   }
 
   return timeUnit;
